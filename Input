@@ -1,0 +1,4 @@
+begin = input("Would you like your word to be random or input? ")
+
+if (begin = "Input"):
+word = input("Enter the word: ")
